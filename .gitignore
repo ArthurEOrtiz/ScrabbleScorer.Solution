@@ -1,2 +1,5 @@
-/obj
-/bin
+ScrabbleScorer.Test/obj/
+ScrabbleScorer/obj/
+
+ScrabbleScorer.Test/bin/
+ScrabbleScorer/bin/
